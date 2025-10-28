@@ -1,64 +1,46 @@
-Jennifer Mateme's Portfolio
+hello This is Jennifer Mateme's Portfolio
 Welcome to my professional portfolio website. This site showcases my skills, projects, and contact information as an Information Technology student and aspiring web developer.
 
 Table of Contents
 Features
 
-Technologies Used
+-Technologies Used
 
-Projects Showcased
+-Projects Showcased
 
-Installation
+-Installation
 
-Usage
+-Usage
 
-License
+-License
 
 Features
+
 Responsive Design: Works on desktop, tablet, and mobile devices
-
 Interactive Elements: Smooth scrolling, hamburger menu for mobile
-
 Project Showcase: Display of my recent work with live demos
-
 Contact Information: Easy way to reach me
-
 Downloadable CV: Access to my resume
 
-Technologies Used
+Technologies Used:
 HTML5
-
 CSS3
-
 JavaScript
-
 Font Awesome Icons
-
 Google Fonts
 
 Projects Showcased
 Landing Page
-
 A responsive landing page design
-
 GitHub Repo
-
 Live Demo
-
 Ecosmart Water
-
 A website for a water solutions company
-
 GitHub Repo
-
 Live Demo
-
 Dynamic Todo List
-
 A task management application
-
 GitHub Repo
-
 Live Demo
 
 Installation
